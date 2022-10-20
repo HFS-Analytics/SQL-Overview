@@ -1,0 +1,6 @@
+Event_Type_ID,	Description
+1,	Intake
+2,	Adoption
+3,	Grooming
+4,	Surgery
+5,	Spay/Neuter
