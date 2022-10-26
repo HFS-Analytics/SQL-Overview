@@ -1,175 +1,175 @@
-Breed_ID, Breed_Name
-1, Affenpinschers
-2, Afghan Hounds
-3, Airedale Terriers
-4, Akitas
-5, Alaskan Malamutes
-6, American English Coonhounds
-7, American Eskimo Dogs
-8, American Foxhounds
-9, American Hairless Terriers
-10, American Staffordshire Terriers
-11, Anatolian Shepherd Dogs
-12, Australian Cattle Dogs
-13, Australian Shepherds
-14, Australian Terriers
-15, Basenjis
-16, Basset Hounds
-17, Beagles
-18, Bearded Collies
-19, Beaucerons
-20, Bedlington Terriers
-21, Belgian Malinois
-22, Belgian Sheepdogs
-23, Belgian Tervuren
-24, Bergamasco
-25, Berger Picards
-26, Bernese Mountain Dogs
-27, Bichons Frises
-28, Black and Tan Coonhounds
-29, Black Russian Terriers
-30, Bloodhounds
-31, Bluetick Coonhounds
-32, Boerboels
-33, Border Collies
-34, Border Terriers
-35, Borzois
-36, Boston Terriers
-37, Bouviers des Flandres
-38, Boxers
-39, Briards
-40, Brittanys
-41, Brussels Griffons
-42, Bull Terriers
-43, Bulldogs
-44, Bullmastiffs
-45, Cairn Terriers
-46, Canaan Dogs
-47, Cane Corso
-48, Cardigan Welsh Corgis
-49, Cavalier King Charles Spaniels
-50, Cesky Terriers
-51, Chihuahuas
-52, Chinese Crested
-53, Chinese Shar-Pei
-54, Chinooks
-55, Chow Chows
-56, Cirnechi dell'Etna
-57, Collies
-58, Coton de Tulear
-59, Dachshunds
-60, Dalmatians
-61, Dandie Dinmont Terriers
-62, Doberman Pinschers
-63, Dogues de Bordeaux
-64, English Foxhounds
-65, English Toy Spaniels
-66, Entlebucher Mountain Dogs
-67, Finnish Lapphunds
-68, Finnish Spitz
-69, Fox Terriers (Smooth)
-70, Fox Terriers (Wire)
-71, French Bulldogs
-72, German Pinschers
-73, German Shepherd Dogs
-74, Giant Schnauzers
-75, Glen of Imaal Terriers
-76, Great Danes
-77, Great Pyrenees
-78, Greater Swiss Mountain Dogs
-79, Greyhounds
-80, Harriers
-81, Havanese
-82, Ibizan Hounds
-83, Icelandic Sheepdogs
-84, Irish Terriers
-85, Irish Wolfhounds
-86, Italian Greyhounds
-87, Japanese Chin
-88, Keeshonden
-89, Kerry Blue Terriers
-90, Komondorok
-91, Kuvaszok
-92, Lagotti Romagnoli
-93, Lakeland Terriers
-94, Leonbergers
-95, Lhasa Apsos
-96, Lowchen
-97, Maltese
-98, Manchester Terriers
-99, Mastiffs
-100, Miniature American Shepherds
-101, Miniature Bull Terriers
-102, Miniature Pinschers
-103, Miniature Schnauzers
-104, Neapolitan Mastiffs
-105, Newfoundlands
-106, Norfolk Terriers
-107, Norwegian Buhunds
-108, Norwegian Elkhounds
-109, Norwegian Lundehunds
-110, Norwich Terriers
-111, Old English Sheepdogs
-112, Otterhounds
-113, Papillons
-114, Parson Russell Terriers
-115, Pekingese
-116, Pembroke Welsh Corgis
-117, Petits Bassets Griffons Vendeens
-118, Pharaoh Hounds
-119, Plotts
-120, Pointers
-121, Pointers (German Shorthaired)
-122, Pointers (German Wirehaired)
-123, Polish Lowland Sheepdogs
-124, Pomeranians
-125, Poodles
-126, Portuguese Podengo Pequenos
-127, Portuguese Water Dogs
-128, Pugs
-129, Pulik
-130, Pumik
-131, Pyrenean Shepherds
-132, Rat Terriers
-133, Redbone Coonhounds
-134, Retrievers
-135, Rhodesian Ridgebacks
-136, Rottweilers
-137, Russell Terriers
-138, Salukis
-139, Samoyeds
-140, Schipperkes
-141, Scottish Deerhounds
-142, Scottish Terriers
-143, Sealyham Terriers
-144, Setters
-145, Shetland Sheepdogs
-146, Shiba Inu
-147, Shih Tzu
-148, Siberian Huskies
-149, Silky Terriers
-150, Skye Terriers
-151, Sloughis
-152, Soft Coated Wheaten Terriers
-153, Spaniels
-154, Spanish Water Dogs
-155, Spinoni Italiani
-156, St. Bernards
-157, Staffordshire Bull Terriers
-158, Standard Schnauzers
-159, Swedish Vallhunds
-160, Tibetan Mastiffs
-161, Tibetan Spaniel
-162, Tibetan Terriers
-163, Toy Fox Terriers
-164, Treeing Walker Coonhounds
-165, Vizslas
-166, Weimaraners
-167, Welsh Terriers
-168, West Highland White Terriers
-169, Whippets
-170, Wirehaired Pointing Griffons
-171, Wirehaired Vizslas
-172, Xoloitzcuintli
-173, Yorkshire Terriers
-174, Mixed
+Breed_ID,Breed_Name
+1,Affenpinschers
+2,Afghan Hounds
+3,Airedale Terriers
+4,Akitas
+5,Alaskan Malamutes
+6,American English Coonhounds
+7,American Eskimo Dogs
+8,American Foxhounds
+9,American Hairless Terriers
+10,American Staffordshire Terriers
+11,Anatolian Shepherd Dogs
+12,Australian Cattle Dogs
+13,Australian Shepherds
+14,Australian Terriers
+15,Basenjis
+16,Basset Hounds
+17,Beagles
+18,Bearded Collies
+19,Beaucerons
+20,Bedlington Terriers
+21,Belgian Malinois
+22,Belgian Sheepdogs
+23,Belgian Tervuren
+24,Bergamasco
+25,Berger Picards
+26,Bernese Mountain Dogs
+27,Bichons Frises
+28,Black and Tan Coonhounds
+29,Black Russian Terriers
+30,Bloodhounds
+31,Bluetick Coonhounds
+32,Boerboels
+33,Border Collies
+34,Border Terriers
+35,Borzois
+36,Boston Terriers
+37,Bouviers des Flandres
+38,Boxers
+39,Briards
+40,Brittanys
+41,Brussels Griffons
+42,Bull Terriers
+43,Bulldogs
+44,Bullmastiffs
+45,Cairn Terriers
+46,Canaan Dogs
+47,Cane Corso
+48,Cardigan Welsh Corgis
+49,Cavalier King Charles Spaniels
+50,Cesky Terriers
+51,Chihuahuas
+52,Chinese Crested
+53,Chinese Shar-Pei
+54,Chinooks
+55,Chow Chows
+56,Cirnechi dell'Etna
+57,Collies
+58,Coton de Tulear
+59,Dachshunds
+60,Dalmatians
+61,Dandie Dinmont Terriers
+62,Doberman Pinschers
+63,Dogues de Bordeaux
+64,English Foxhounds
+65,English Toy Spaniels
+66,Entlebucher Mountain Dogs
+67,Finnish Lapphunds
+68,Finnish Spitz
+69,Fox Terriers (Smooth)
+70,Fox Terriers (Wire)
+71,French Bulldogs
+72,German Pinschers
+73,German Shepherd Dogs
+74,Giant Schnauzers
+75,Glen of Imaal Terriers
+76,Great Danes
+77,Great Pyrenees
+78,Greater Swiss Mountain Dogs
+79,Greyhounds
+80,Harriers
+81,Havanese
+82,Ibizan Hounds
+83,Icelandic Sheepdogs
+84,Irish Terriers
+85,Irish Wolfhounds
+86,Italian Greyhounds
+87,Japanese Chin
+88,Keeshonden
+89,Kerry Blue Terriers
+90,Komondorok
+91,Kuvaszok
+92,Lagotti Romagnoli
+93,Lakeland Terriers
+94,Leonbergers
+95,Lhasa Apsos
+96,Lowchen
+97,Maltese
+98,Manchester Terriers
+99,Mastiffs
+100,Miniature American Shepherds
+101,Miniature Bull Terriers
+102,Miniature Pinschers
+103,Miniature Schnauzers
+104,Neapolitan Mastiffs
+105,Newfoundlands
+106,Norfolk Terriers
+107,Norwegian Buhunds
+108,Norwegian Elkhounds
+109,Norwegian Lundehunds
+110,Norwich Terriers
+111,Old English Sheepdogs
+112,Otterhounds
+113,Papillons
+114,Parson Russell Terriers
+115,Pekingese
+116,Pembroke Welsh Corgis
+117,Petits Bassets Griffons Vendeens
+118,Pharaoh Hounds
+119,Plotts
+120,Pointers
+121,Pointers (German Shorthaired)
+122,Pointers (German Wirehaired)
+123,Polish Lowland Sheepdogs
+124,Pomeranians
+125,Poodles
+126,Portuguese Podengo Pequenos
+127,Portuguese Water Dogs
+128,Pugs
+129,Pulik
+130,Pumik
+131,Pyrenean Shepherds
+132,Rat Terriers
+133,Redbone Coonhounds
+134,Retrievers
+135,Rhodesian Ridgebacks
+136,Rottweilers
+137,Russell Terriers
+138,Salukis
+139,Samoyeds
+140,Schipperkes
+141,Scottish Deerhounds
+142,Scottish Terriers
+143,Sealyham Terriers
+144,Setters
+145,Shetland Sheepdogs
+146,Shiba Inu
+147,Shih Tzu
+148,Siberian Huskies
+149,Silky Terriers
+150,Skye Terriers
+151,Sloughis
+152,Soft Coated Wheaten Terriers
+153,Spaniels
+154,Spanish Water Dogs
+155,Spinoni Italiani
+156,St. Bernards
+157,Staffordshire Bull Terriers
+158,Standard Schnauzers
+159,Swedish Vallhunds
+160,Tibetan Mastiffs
+161,Tibetan Spaniel
+162,Tibetan Terriers
+163,Toy Fox Terriers
+164,Treeing Walker Coonhounds
+165,Vizslas
+166,Weimaraners
+167,Welsh Terriers
+168,West Highland White Terriers
+169,Whippets
+170,Wirehaired Pointing Griffons
+171,Wirehaired Vizslas
+172,Xoloitzcuintli
+173,Yorkshire Terriers
+174,Mixed
